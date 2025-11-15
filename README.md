@@ -8,7 +8,7 @@ Hi, I'm Peter, I enjoy all things coding and data. This portfolio showcases how 
 ### Circuit Simulator (Modified Nodal Analysis)
 
 **Repo:** https://github.com/pjdamian/circuit-simulator  
-**Tech:** Python, NumPy, NetworkX
+**Tech:** Python, NumPy, NetworkX  
 **Skills Demonstrated:** Numerical methods, circuit theory, OOP design, algorithm implementation, testing
 **Summary:**  
 A DC network solver built using Modified Nodal Analysis (MNA). Supports resistors, voltage sources (with internal resistance), and ideal switches. Includes node voltage and branch current reporting, isolated node pruning, ground selection, and physics verification through series and parallel test circuits. Fully unit-tested and structured for extensibility.
